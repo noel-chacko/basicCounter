@@ -9,3 +9,5 @@ I was able to keep elements centered as the page size changes.
 Learned about max-width and flex.
 
 Will use this to create a cookie clicker clone in the future.
+
+Pressing too fast on Chrome will cause the screen to zoom in. I was able to fix this on Safari.
